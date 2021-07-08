@@ -1,3 +1,13 @@
+-- this is intended to understand the math behind the card game spot it.
+
+-- many months after this attempt, Matt Parker put out a video explaining it!
+-- I'll put a link to it, and several other resources here:
+-- https://www.youtube.com/watch?v=VTDKqW_GLkw
+-- https://en.wikipedia.org/wiki/Difference_set
+-- https://en.wikipedia.org/wiki/Combinatorial_design
+-- https://en.wikipedia.org/wiki/Kirkman%27s_schoolgirl_problem
+
+
 drop table CARD_ICON purge;
 drop table CARD purge;
 drop table ICON purge;
